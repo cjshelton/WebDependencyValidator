@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDependencyValidator", "WebDependencyValidator\WebDependencyValidator.csproj", "{3748EBB1-7A11-4163-BAA2-E4D30DC384B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleWebAPI", "ExampleWebAPI\ExampleWebAPI.csproj", "{C03D7D52-4198-472C-9A98-BCF99CB618C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3748EBB1-7A11-4163-BAA2-E4D30DC384B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3748EBB1-7A11-4163-BAA2-E4D30DC384B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3748EBB1-7A11-4163-BAA2-E4D30DC384B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3748EBB1-7A11-4163-BAA2-E4D30DC384B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03D7D52-4198-472C-9A98-BCF99CB618C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03D7D52-4198-472C-9A98-BCF99CB618C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03D7D52-4198-472C-9A98-BCF99CB618C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03D7D52-4198-472C-9A98-BCF99CB618C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
